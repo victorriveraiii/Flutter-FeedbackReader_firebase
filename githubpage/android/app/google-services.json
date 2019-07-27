@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1047585659491",
+    "firebase_url": "https://github-page-3b125.firebaseio.com",
+    "project_id": "github-page-3b125",
+    "storage_bucket": "github-page-3b125.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047585659491:android:a6d9dc8a4e2e1cf7",
+        "android_client_info": {
+          "package_name": "com.umeshnalinde.githubpage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047585659491-6oldp3gm6eo7kgddkgd0f1p0k5kv0m10.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzq-fqmc2j3eZ28YKqwuEt7gbEbphGIbM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1047585659491-6oldp3gm6eo7kgddkgd0f1p0k5kv0m10.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
